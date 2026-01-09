@@ -129,5 +129,7 @@
 
 **如果有Visa等，你也可以通过github渠道来自愿捐赠，这可以额外让你获取sponsor徽章！**
 - 注意：此方式需要查看你的github关联邮箱！接收我们自动化邮件并按指引回复；
-<iframe src="https://github.com/sponsors/AlexBybye/card" title="Sponsor AlexBybye" height="155" width="600" style="border: 0;"></iframe>
+<iframe src="https://github.com/sponsors/AlexBybye/card" title="Sponsor AlexBybye" height="155" width="600" style="border: 0;">
+</iframe>
+
 若使用中遇问题或有建议，欢迎随时反馈，期待与你共同完善这份学习资料宝库！
